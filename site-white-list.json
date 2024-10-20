@@ -3,12 +3,14 @@
   "rules": [
     {
        "domain": [
-         
+         // 新百强小说
+         "m.xinbqg.com",
+         "m.xinbqg.la"
        ],
       "domain_suffix":
       [
-        // 新百强小说
-        "xinbqg.com"
+        
+        
       ]
     }
   ]
