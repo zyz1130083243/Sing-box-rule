@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+       "domain": [
+         // 新百强小说
+         "m.xinbqg.com"
+       ],
+      "domain_suffix":
+      [
+        
+      ]
+    }
+  ]
+}
